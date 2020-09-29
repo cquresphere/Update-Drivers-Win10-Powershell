@@ -6,7 +6,7 @@ I thought it would be easy to adjust but it turns out it requires a lot of testi
 
 So after testing and experimenting I get this script. 
 
-This script: 
+# This script: 
 
 1. Starts with checking if terminal is runing with administrator priviledge.
 If it is not it propmts notification about requirement. 
@@ -33,7 +33,9 @@ Next stage is to add logging feature to be able to see all details about preupda
 Another feature I would like to add is measurements to count time spent on downloading and installing. 
 I think also it would be nice to have good error hadling 
 
-References:
+# References:
 [1] https://superuser.com/questions/1243011/how-to-automatically-update-all-devices-in-device-manager
+
 [2] https://rzander.azurewebsites.net/script-to-install-or-update-drivers-directly-from-microsoft-catalog/
+
 [3] https://www.tenforums.com/tutorials/76207-update-upgrade-windows-10-using-powershell.html
