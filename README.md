@@ -27,11 +27,11 @@ If it is not it propmts notification about requirement.
 
 9. Stop Windows Update Service
 
+# Roadmap / Plans
 
-
-Next stage is to add logging feature to be able to see all details about preupdate and post update drivers. 
-Another feature I would like to add is measurements to count time spent on downloading and installing. 
-I think also it would be nice to have good error hadling 
+1. Next stage is to add logging feature to be able to see all details about preupdate and post update drivers. 
+2. Another feature I would like to add is measurements to count time spent on downloading and installing. 
+3. I think also it would be nice to have good error hadling 
 
 # References:
 [1] https://superuser.com/questions/1243011/how-to-automatically-update-all-devices-in-device-manager
