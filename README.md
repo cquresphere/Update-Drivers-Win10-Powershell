@@ -1,10 +1,16 @@
 # Update-Drivers-Win10-Powershell
+
 Powershell Script to Update Drivers in Windows 10
 
 Base for this project was script from StackExchange. The problem was it works only on Windows 7. 
 I thought it would be easy to adjust but it turns out it requires a lot of testing.
 
 So after testing and experimenting I get this script. 
+
+# Edit: New update!
+
+Log feature added to script and handle problem with some errors.
+I added also timers.
 
 # This script: 
 
