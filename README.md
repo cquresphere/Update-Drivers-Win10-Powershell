@@ -9,7 +9,7 @@ So after testing and experimenting I get this script.
 
 # Edit: New update!
 
-Log feature added to script and handle problem with some errors.
+Log feature added to script and fix for problem with some errors.
 I added also timers.
 
 # This script: 
